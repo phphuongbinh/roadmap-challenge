@@ -1,4 +1,4 @@
-# 🌐 Hi, I'm [Your Name] 👋
+# 🌐 Hi, I'm Phan Phuong Binh 👋
 
 ## 🚀 About Me
 I'm a **Web Developer** passionate about creating **modern, responsive, and user-friendly websites**.  
