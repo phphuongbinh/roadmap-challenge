@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", serif;
+  padding: 40px 60px;
+  width: 800px;
+  margin: 10px auto;
+  border: 2px solid #000;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 500;
+}
+section {
+  margin-bottom: 10px;
+}
+
+section .title {
+  color: green;
+  padding: 10px 0;
+}
+
+section .sub-title {
+  font-size: 16px;
+  color: dodgerblue;
+  font-weight: 500;
+}
+
+.divider {
+  height: 2px;
+  width: 600px;
+  background: #000;
+  margin: 20px 0;
+}
+
+section .list {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+section .list li {
+  margin: 5px 0;
+}
