@@ -8,6 +8,7 @@ I specialize in **Frontend Development**, but I also enjoy working on **Full-Sta
 - 🛠️ Currently working on: **React, Next.js & TailwindCSS**
 - 🎯 Learning: **Backend development with Node.js & MongoDB**
 - 💡 Interests: UI/UX Design, Performance Optimization, and Web Accessibility
+- https://roadmap.sh/projects/single-page-cv
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React, Next.js, Vue.js  
