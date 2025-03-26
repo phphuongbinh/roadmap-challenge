@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Red Hat Text";
+  margin: 20px auto;
+  width: 800px;
+  border: 2px solid black;
+  padding: 40px 0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 500;
+}
+.sub-title {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+  color: darkgrey;
+}
+
+.changelog {
+  display: flex;
+  gap: 30px;
+  padding: 40px 0;
+  margin: 40px 0;
+}
+
+.divider {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  justify-content: center;
+}
+
+.divider::after {
+  content: "";
+  position: absolute;
+  width: 2px;
+  height: 130%;
+  background-color: black;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.divider .dot {
+  width: 16px;
+  height: 16px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.left,
+.right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 30px;
+}
+
+.left {
+  color: darkgray;
+  align-items: end;
+}
+
+.button {
+  background: #000;
+  color: #fff;
+  padding: 15px 30px;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
